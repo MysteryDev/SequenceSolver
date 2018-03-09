@@ -22,7 +22,7 @@ The program uses an algorithm to find the missing operators and displays the equ
 2 X 6 + 9 - 5 * 3 = 48
 
 ### REMIX Tips ###
-* To add a user interactivity - Allow the user to enter the target number and sequence as inputs rather from the source code
-** To find a way to display the algorithm steps taken to reach the solution (print statements carefully placed in the functions)
-*** Maybe a GUI??
++ To add a user interactivity - Allow the user to enter the target number and sequence as inputs rather from the source code
++ To find a way to display the algorithm steps taken to reach the solution (print statements carefully placed in the functions)
++ Maybe a GUI??
 
